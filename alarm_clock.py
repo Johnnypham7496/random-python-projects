@@ -1,5 +1,5 @@
 from datetime import datetime
-from winsound import PlaySound 
+import winsound
 
 
 alarm_time = input("Enter the time of alarm to be set: HH:MM:SS\n")
@@ -23,5 +23,5 @@ while True:
             if alarm_minute == current_min:
                 if alarm_second == current_sec:
                     print("WAKE UP")
-                    PlaySound()
+                    winsound.Beep()
                     break
