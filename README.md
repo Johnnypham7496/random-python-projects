@@ -4,15 +4,15 @@
 
 - Create Acronyms using Python
 
-- Alarm Clock with Python
+- Alarm Clock
 
-- Email Slicer with Python
+- Email Slicer
 
-- Story Generator with Python
+- Story Generator
 
-- Generate Password with Python
+- Generate Password
 
-- Play Rock, Paper, and Scissors with Python
+- Play Rock, Paper, and Scissors
 
 - Dice Roll Simulator
 
