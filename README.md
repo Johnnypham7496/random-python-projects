@@ -1,5 +1,7 @@
 # random-python-projects-beginner
 
+https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512
+
 ## These are the list of projects that are being created at the beginner level
 
 - Create Acronyms using Python
