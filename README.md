@@ -32,8 +32,6 @@ https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512
 
 - Convert Roman Numbers to Decimals
 
-<hr>
-
 ## These are the list of projects that are being created at the advanced level
 
 
