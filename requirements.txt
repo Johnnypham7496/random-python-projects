@@ -1,3 +1,5 @@
 colorama==0.4.6
+numpy==1.26.1
+opencv-python==4.8.1.78
 plyer==2.1.0
 PyQRCode==1.2.1
