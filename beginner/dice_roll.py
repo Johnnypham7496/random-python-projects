@@ -14,4 +14,4 @@ while roll_again == 'yes' or roll_again == 'y':
     print(secrets.SystemRandom().randint(min_val, max_val))
     
 
-    roll_again = input('Roll dices again?')
+    roll_again = input('Roll dices again? Press "y" for yes: ').lower()
