@@ -1,8 +1,8 @@
-import random
+import secrets
 
 
 choices = ['Rock', 'Paper', 'Scrissors']
-computer = random.choice(choices)
+computer = secrets.SystemRandom().choice(choices)
 player = False
 cpu_score = 0 
 player_score = 0
