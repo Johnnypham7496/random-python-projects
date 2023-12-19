@@ -8,9 +8,8 @@ cpu_score = 0
 player_score = 0
 
 while True:
-    player = input("Rock, Paper, or Scissors? ").capitalize()
     ## conditions of rock paper scissors
-    if player == computer:
+    if (player := input("Rock, Paper, or Scissors? ").capitalize()) == computer:
         print("It's a tie!")
     elif player == "Rock":
         if computer == "Paper":

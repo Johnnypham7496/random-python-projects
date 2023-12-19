@@ -8,7 +8,6 @@ while(True):
     camera, frame = cp.read()
     if frame is not None:
         cv2.imshow("Frame", frame)
-    q = cv2.waitKey(1)
-    if q==ord("q"):
+    if (q := cv2.waitKey(1))==ord("q"):
         break
 cv2.destroyAllWindows()
