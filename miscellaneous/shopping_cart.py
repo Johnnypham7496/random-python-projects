@@ -15,7 +15,7 @@ while True:
         foods.append(food)
         prices.append(price)
 
-print(f'----- YOUR CART -----')
+print('----- YOUR CART -----')
 
 # using end= to print the prices horizontally instead of vertically
 for food in foods:
